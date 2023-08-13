@@ -3,14 +3,29 @@
 First of all, we need to have a circuit on paper. It is the first and the most important step, as it is the main stage where are all the features of the circuits will be defined. The rest of the stages just help us debug and make this circuit more permanent
 ** Breadboard
 This is when you actually see your circuit working. Breadboard is the fastest and the easiest way to test your circuits. After this stage, you should have a final working circuit that you are happy with.
+
+#+ATTR_ORG: :width 200
+file:imgs/breadboard.png
+
 ** Perfboard
 A perfboard is like a breadboard, but where you solder your components. This is what you used during your electronics workshop. For most simple applications, you can end your circuit development here. They are sturdy enough and provide good permanence. But, if your circuits are complex, you need to skip this one and go to the next stage.
+
+#+ATTR_ORG: :width 200
+file:imgs/perfboard.png
+
 ** PCB
 This is what we will learn about in this module. What it is, and how to design your own PCBs.
+
+#+ATTR_ORG: :width 200
+file:imgs/pcb.png
+
 * What is a PCB
 PCB stands for Printed Circuit Board. It is like a sandwich of flat copper wires and insulators. This makes circuits compact and damage resistant. The PCBs that we will be making are simple 2-layered ones.
+
 * Installing KiCad
 We will be using KiCad to design our PCBs. It is an opensource electronics designing suite. Get it from [[https://www.kicad.org/][here]].
+
 * Designing
 Follow [[https://youtu.be/3FGNw28xBr0][this]] videos to get up and going with KiCad.
 This [[https://youtube.com/playlist?list=PLn6004q9oeqGl91KifK6xHGuqvXGb374G][playlist]] goes into more detail. Watch it if you wish to get a clearer understanding.
+You should *follow* them actively. Pause the videos occasionaly and do what they are doing alongside. PCB designing is a skill and needs practice and patience.
