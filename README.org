@@ -29,3 +29,6 @@ We will be using KiCad to design our PCBs. It is an opensource electronics desig
 Follow [[https://youtu.be/3FGNw28xBr0][this]] videos to get up and going with KiCad.
 This [[https://youtube.com/playlist?list=PLn6004q9oeqGl91KifK6xHGuqvXGb374G][playlist]] goes into more detail. Watch it if you wish to get a clearer understanding.
 You should *follow* them actively. Pause the videos occasionaly and do what they are doing alongside. PCB designing is a skill and needs practice and patience.
+
+* Task
+Design a PCB for an LED blinking circuit using a 555 Time IC. The blinking rate should be controllable from a potentiometer (which is also on the PCB). For the power, just have two header pins. You can use any type of components (SMD or Through-Hole). The goal is to make the PCB as compact as possible. Look for the circuit online, and choose your components accordingly.
